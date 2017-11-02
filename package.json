@@ -1,0 +1,11 @@
+{
+  "name": "PhoneGap-OrientationLock",
+  "version": "0.1",
+  "description": "PhoneGap-OrientationLock",
+  "main": "www/orientationLock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
